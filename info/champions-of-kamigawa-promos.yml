@@ -1,0 +1,18 @@
+---
+object: set
+id: 57b23d04-034d-4d04-ba0e-524b6ba03eb7
+code: pchk
+name: Champions of Kamigawa Promos
+uri: https://api.scryfall.com/sets/57b23d04-034d-4d04-ba0e-524b6ba03eb7
+scryfall_uri: https://scryfall.com/sets/pchk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apchk&unique=prints
+released_at: '2004-10-01'
+set_type: promo
+card_count: 1
+parent_set_code: chk
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: chk
+block: Kamigawa
+icon_svg_uri: https://svgs.scryfall.io/sets/chk.svg?1694404800
